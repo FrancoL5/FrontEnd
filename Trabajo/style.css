@@ -1,0 +1,14 @@
+body{
+    color: white;
+    background-color: rgb(61, 60, 60);
+}
+h1{
+    background-color: black;
+}
+.containerForm{
+    display: flex;
+
+}
+input{
+    background-color: darkgray;
+}
